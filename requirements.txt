@@ -1,0 +1,15 @@
+# Data processing
+pandas>=2.0
+numpy>=2.0
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.13
+wordcloud>=1.9
+
+# Web app framework
+streamlit>=1.20
+
+# Optional dependencies (if you do advanced tasks)
+pyarrow>=9.0
+kagglehub>=0.2
